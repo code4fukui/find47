@@ -6,4 +6,4 @@ https://find47.jp/
 https://github.com/code4fukui/find47/blob/main/find47images.csv
 
 ## sample app
-https://code4fukui.github.io/find47  
+https://code4fukui.github.io/find47/  
