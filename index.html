@@ -1,0 +1,76 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>日本の風景オープンデータ</title>
+<style>
+body {
+  margin: 0;
+  margin-bottom: 25em;
+}
+h1 {
+  text-align: center;
+}
+#images img {
+  margin: 0;
+  padding: 0;
+  width: 20vw;
+  vertical-align: middle;
+}
+#credit {
+  font-size: 80%;
+  margin: 1em;
+}
+#credits a {
+  margin-right: 1em;
+}
+#src {
+  font-size: 80%;
+  margin: 1em;
+}
+</style>
+</head>
+<body>
+
+<h1>日本の風景オープンデータ</h1>
+<div id="images"></diV>
+<div id="credit">
+  写真は順に、
+  <span id="credits"></span><br>
+  写真はすべて<a href=https://creativecommons.org/licenses/by/4.0/>CC BY / クリエイティブ・コモンズ・ライセンス（表示4.0 国際）</a>のもとに掲載を許諾されています。（参考、<a href=https://find47.jp/ja/credit/>CC BYライセンスの表記方法</a>）
+</div>
+<div id="src">
+Data: CC BY <a href=https://find47.jp/>FIND/47｜みんなで集め、広めていくフォトアーカイブ。</a> → <a href=https://code4fukui.github.io/find47/find47images.csv>CSV</a> (<a href=https://github.com/code4fukui/find47/>src on GitHub</a>)<br>
+App: <a href=https://fukuno.jig.jp/3199>@taisukef</a><br>
+</div>
+
+<script type="module">
+import { CSV } from "https://code4sabae.github.io/js/CSV.js";
+import { sleep } from "https://js.sabae.cc/sleep.js";
+import { shuffle } from "https://js.sabae.cc/shuffle.js";
+
+window.onload = async () => {
+  const url = "https://code4fukui.github.io/find47/find47images.csv";
+  const data = CSV.toJSON(await CSV.fetch(url));
+  console.log(data);
+
+  shuffle(data);
+  for (const d of data) {
+    const imga = document.createElement("a");
+    imga.href = d.url;
+    const img = new Image();
+    img.src = "https://code4fukui.github.io/find47/photo/" + d.id + ".jpg";
+    //img.src = "photo/" + d.id + ".jpg"; // at local
+    //img.src = d.url_thumb; // at find47
+    //img.onclick = () => window.open(d.url, "_blank");
+    imga.appendChild(img);
+    images.appendChild(imga);
+
+    const a = document.createElement("a");
+    a.href = d.url;
+    a.textContent = d.title + " © " + d.author;
+    credits.appendChild(a);
+
+    await sleep(500);
+  }
+};
+</script>
+</body>
+</html>
