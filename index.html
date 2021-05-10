@@ -57,9 +57,8 @@ window.onload = async () => {
     imga.href = d.url;
     const img = new Image();
     img.src = "https://code4fukui.github.io/find47/photo/" + d.id + ".jpg";
-    //img.src = "photo/" + d.id + ".jpg"; // at local
-    //img.src = d.url_thumb; // at find47
-    //img.onclick = () => window.open(d.url, "_blank");
+    //img.src = "photo/" + d.id + ".jpg"; // local
+    //img.src = d.url_thumb; // find47
     imga.appendChild(img);
     images.appendChild(imga);
 

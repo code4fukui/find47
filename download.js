@@ -107,7 +107,15 @@ Connection: keep-alive
 zipがかえる
 
     */
-const data = JSON.parse(await Deno.readTextFile("images.json"));
+const url = "https://search.find47.jp/ja/images.json";
+const s = await (await fetch(url)).text();
+const s2 = await Deno.readTextFile("images.json");
+if (s == s2) {
+  console.log("no changes");
+  Deno.exit(0);
+}
+await Deno.writeTextFile("images.json", s);
+const data = JSON.parse(s);
 console.log(data);
 const list = [];
 await Deno.mkdir("html", { recursive: true });
