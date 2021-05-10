@@ -52,6 +52,7 @@ window.onload = async () => {
   console.log(data);
 
   shuffle(data);
+  let n = 0;
   for (const d of data) {
     const imga = document.createElement("a");
     imga.href = d.url;
@@ -64,10 +65,13 @@ window.onload = async () => {
 
     const a = document.createElement("a");
     a.href = d.url;
+    img.title = d.id;
     a.textContent = d.title + " © " + d.author;
     credits.appendChild(a);
 
-    await sleep(500);
+    if (n++ % 20 == 19) {
+      await sleep(5000);
+    }
   }
 };
 </script>
