@@ -1,0 +1,31 @@
+<script type=module>
+import { CSV } from "https://code4sabae.github.io/js/CSV.js";
+import { sleep } from "https://js.sabae.cc/sleep.js";
+import { shuffle } from "https://js.sabae.cc/shuffle.js";
+
+window.onload = async () => {
+  const url = "https://code4fukui.github.io/find47/find47images.csv";
+  const data = CSV.toJSON(await CSV.fetch(url));
+  console.log(data);
+
+  shuffle(data);
+  for (const d of data) {
+    const imga = document.createElement("a");
+    imga.href = d.url;
+    const img = new Image();
+    img.src = "https://code4fukui.github.io/find47/photo/" + d.id + ".jpg";
+    //img.src = "photo/" + d.id + ".jpg"; // at local
+    //img.src = d.url_thumb; // at find47
+    //img.onclick = () => window.open(d.url, "_blank");
+    imga.appendChild(img);
+    images.appendChild(imga);
+
+    const a = document.createElement("a");
+    a.href = d.url;
+    a.textContent = d.title + " © " + d.author;
+    credits.appendChild(a);
+
+    await sleep(500);
+  }
+};
+</script>
