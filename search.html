@@ -1,0 +1,73 @@
+<script type="module">
+import { create, add, css, h1, inp, div, link } from "https://js.sabae.cc/stdom.js";
+import { CSV } from "https://code4sabae.github.io/js/CSV.js";
+import { shuffle } from "https://js.sabae.cc/shuffle.js";
+import { search } from "https://js.sabae.cc/search.js";
+
+window.onload = async () => {
+  // ページ構築
+  h1("写真検索 with FIND47オープンデータ");
+  const inputfilter = inp();
+  const res = div();
+  credit();
+  css("a { color: gray !important; }");
+
+  // データ読み込み
+  const url = "https://code4fukui.github.io/find47/find47images.csv";
+  const data = CSV.toJSON(await CSV.fetch(url));
+  console.log(data);
+  shuffle(data);
+
+  // 検索表示機能
+  inputfilter.onchange = inputfilter.onkeyup = () => {
+    const hits = search(data, inputfilter.value);
+    document.location.hash = "#" + inputfilter.value;
+    console.log(hits, hits.length);
+    res.innerHTML = "";
+    for (const d of hits) {
+      const div = create("div");
+      div.style.margin = "1vw 0";
+
+      const img = new Image();
+      img.style.width = "60vw";
+      img.loading = "lazy"; // 画像は表示するときに読み込み
+      img.src = d.url_thumb;
+      div.appendChild(img);
+
+      const div2 = create("div");
+      div2.style.display = "inline-block";
+      div2.style.width = "35vw";
+      div2.style.padding = "1vw";
+      div2.style.verticalAlign = "top";
+      div.appendChild(div2);
+
+      const span2 = create("span");
+      span2.textContent = d.pref;
+      span2.style.display = "block";
+      div2.appendChild(span2);
+
+      const span = create("a");
+      span.textContent = d.title;
+      span.href = d.url;
+      span.style.display = "block";
+      div2.appendChild(span);
+
+      const inpurl = create("input");
+      inpurl.value = d.url_thumb;
+      inpurl.onfocus = () => inpurl.select();
+      div2.appendChild(inpurl);
+      res.appendChild(div);
+    }
+  };
+
+  // 初期画面
+  inputfilter.value = decodeURIComponent(document.location.hash.substring(1)) || "福井";
+  inputfilter.onchange();
+};
+const credit = () => {
+  add("hr");
+  link("写真 CC BY FIND47", "https://find47.jp/");
+  link("データ CC BY Code for Fukui", "https://github.com/code4fukui/find47/");
+  link("アプリ CC BY Code for Fukui", "https://fukuno.jig.jp/3226");
+};
+</script>
