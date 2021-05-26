@@ -19,7 +19,7 @@ let imglist = null;
 const bg = async (no, nowait) => {
 	if (!imglist) {
 		imglist = CSV.toJSON(await CSV.fetch("https://code4fukui.github.io/find47/find47images.csv"));
-		console.log(imglist);
+		//console.log(imglist);
 	}
 	const data = imglist.find(i => i.id == no);
 	if (!data) {
