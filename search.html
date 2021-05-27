@@ -4,7 +4,7 @@ import { CSV } from "https://code4sabae.github.io/js/CSV.js";
 import { shuffle } from "https://js.sabae.cc/shuffle.js";
 import { search } from "https://js.sabae.cc/search.js";
 
-window.onload = async () => {
+onload = async () => {
   // ページ構築
   h1("写真検索 with FIND47オープンデータ");
   const inputfilter = inp();
@@ -29,7 +29,7 @@ window.onload = async () => {
       div.style.margin = "1vw 0";
 
       const img = new Image();
-      img.style.width = "60vw";
+      img.style.width = "50vw";
       img.loading = "lazy"; // 画像は表示するときに読み込み
       img.src = d.url_thumb;
       div.appendChild(img);
@@ -56,6 +56,13 @@ window.onload = async () => {
       inpurl.value = d.url_thumb;
       inpurl.onfocus = () => inpurl.select();
       div2.appendChild(inpurl);
+
+      const span3 = create("span");
+      span3.textContent = d.id;
+      span3.style.display = "block";
+      span3.style.fontSize = "90%";
+      div2.appendChild(span3);
+
       res.appendChild(div);
     }
   };
