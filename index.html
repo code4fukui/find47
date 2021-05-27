@@ -46,7 +46,7 @@ import { CSV } from "https://code4sabae.github.io/js/CSV.js";
 import { sleep } from "https://js.sabae.cc/sleep.js";
 import { shuffle } from "https://js.sabae.cc/shuffle.js";
 
-window.onload = async () => {
+onload = async () => {
   const url = "https://code4fukui.github.io/find47/find47images.csv";
   const data = CSV.toJSON(await CSV.fetch(url));
   console.log(data);
