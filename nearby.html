@@ -1,0 +1,31 @@
+<meta charset="utf-8"><script type="module">
+import { h1, create, hr, link } from "https://js.sabae.cc/stdom.js";
+import { getCurrentPosition } from "https://js.sabae.cc/getCurrentPosition.js";
+import { searchNearBy } from "./searchNearBy.js";
+
+onload = async () => {
+  h1("近くのステキ風景検索 - FIND/47");
+  const btn = create("button", document.body);
+  const radius = 30; //km
+  btn.textContent = `現在位置から半径${radius}km以内の写真表示`;
+  const results = create("div", document.body);
+  btn.onclick = async () => {
+    const p = await getCurrentPosition();
+    const data = await searchNearBy(p.latitude, p.longitude, radius);
+    results.innerHTML = "";
+    data.forEach(d => {
+      const div = create("div", results);
+      const a = create("a", div);
+      a.href = d.url;
+      const title = create("div", a);
+      title.textContent = d.title + ` (ココから${d.distance.toFixed(1)}km)`;
+      const img = create("img", a);
+      img.style.width = "100%";
+      img.src = d.url_thumb;
+    });
+  };
+  hr();
+  link("DATA CC BY FIND/47", "https://find47.jp/");
+  link("src on GitHub", "https://github.com/code4fukui/find47/");
+};
+</script>
