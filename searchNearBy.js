@@ -25,5 +25,7 @@ export const searchNearBy = async (lat, lng, radiuskm) => {
 			url: `https://find47.jp/ja/i/${i.code}`,
 			url_thumb: `https://find47.jp/ja/i/${i.code}/image_file?type=thumb`,
 		}
+	}).sort((a, b) => {
+		return a.distance - b.distance;
 	});
 };
