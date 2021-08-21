@@ -218,3 +218,5 @@ for (const d of data.images) {
 }
 list.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 await Deno.writeTextFile("find47images.csv", CSV.encode(CSV.fromJSON(list)));
+
+await import("./makeCompact.js");
