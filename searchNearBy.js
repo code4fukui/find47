@@ -20,6 +20,8 @@ export const searchNearBy = async (lat, lng, radiuskm) => {
 
 		return {
 			title: i.title,
+			lat: ll.lat,
+			lng: ll.lng,
 			Geo3x3: i.Geo3x3,
 			distance,
 			url: `https://find47.jp/ja/i/${i.code}`,
