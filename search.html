@@ -8,6 +8,7 @@ onload = async () => {
   // ページ構築
   h1("写真検索 with FIND47オープンデータ");
   const inputfilter = inp();
+  inputfilter.placeholder = "検索ワード";
   const res = div();
   credit();
   style({ a: { color: "gray !important" }});
@@ -16,7 +17,8 @@ onload = async () => {
   const url = "https://code4fukui.github.io/find47/find47images.csv";
   const data = CSV.toJSON(await CSV.fetch(url));
   console.log(data);
-  shuffle(data);
+  //shuffle(data);
+  data.reverse();
 
   // 検索表示機能
   inputfilter.onchange = inputfilter.onkeyup = () => {
@@ -55,7 +57,14 @@ onload = async () => {
       const inpurl = create("input");
       inpurl.value = d.url_thumb;
       inpurl.onfocus = () => inpurl.select();
+      inpurl.style.width = "25em";
       div2.appendChild(inpurl);
+
+      const spandt = create("span");
+      spandt.textContent = d.date_shot;
+      spandt.style.display = "block";
+      spandt.style.fontSize = "90%";
+      div2.appendChild(spandt);
 
       const span3 = create("span");
       span3.textContent = d.id;
@@ -68,7 +77,7 @@ onload = async () => {
   };
 
   // 初期画面
-  inputfilter.value = decodeURIComponent(document.location.hash.substring(1)) || "福井";
+  inputfilter.value = decodeURIComponent(document.location.hash.substring(1)) || "";
   inputfilter.onchange();
 };
 const credit = () => {
