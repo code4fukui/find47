@@ -213,7 +213,7 @@ for (const d of data.images) {
         d2[namee] = val;
     }
     d2.Geo3x3 = pos;
-    console.log(d2);
+    //console.log(d2);
     list.push(d2);
 }
 list.sort((a, b) => parseInt(a.id) - parseInt(b.id));

@@ -11,7 +11,7 @@ const isExists = async (fn) => {
 const data = CSV.toJSON(CSV.decode(await Deno.readTextFile("find47images.csv")));
 await Deno.mkdir("photo", { recursive: true });
 for (const d of data) {
-  console.log(d.url_image);
+  //console.log(d.url_image);
   const fn = "photo/" + d.id + ".jpg";
   if (await isExists(fn)) {
     continue;
