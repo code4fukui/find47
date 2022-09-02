@@ -1,4 +1,4 @@
-import HTMLParser from "https://dev.jspm.io/node-html-parser";
+import { HTMLParser } from "https://js.sabae.cc/HTMLParser.js";
 import { Geo3x3 } from "https://taisukef.github.io/Geo3x3/Geo3x3.mjs";
 import { CSV } from "https://js.sabae.cc/CSV.js";
 
