@@ -16,6 +16,7 @@ export const Find47 = {
     const r = list[rnd(list.length)];
     const url = "https://code4fukui.github.io/find47/photo/" + r.id + ".jpg";
     r.url_image = url;
+    r.url = "https://find47.jp/ja/i/" + r.code;
     return r;
   }
 };
