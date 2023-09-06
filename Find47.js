@@ -15,6 +15,7 @@ export const Find47 = {
     const list = pref ? imgs.filter(i => i.pref == pref) : imgs;
     const r = list[rnd(list.length)];
     const url = "https://code4fukui.github.io/find47/photo/" + r.id + ".jpg";
-    return url;
+    r.url_image = url;
+    return r;
   }
 };
