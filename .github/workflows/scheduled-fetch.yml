@@ -18,6 +18,7 @@ jobs:
         run: |
           deno run -A download.js
           deno run -A downloadPhoto.js
+          deno run -A makePref.js
       - name: commit and push
         run: |
           git config --global user.email "workflow@example.com"
