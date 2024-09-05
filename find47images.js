@@ -26,11 +26,13 @@ const bg = async (no, nowait) => {
 		return;
 	}
 	const img = new Image();
-	img.src = data.url_image;
+	const url_image = "https://code4fukui.github.io/find47/photo/" + data.id + ".jpg";
+	//img.src = url_image;
 	await waitImageLoad(img);
 	//document.body.style.backgroundImage = `url('${url}'), url("./man.png")`;
 	document.body.style.backgroundColor = "black";
-	document.body.style.backgroundImage = `url('${data.url_image}')`;
+	//document.body.style.backgroundImage = `url('${data.url_image}')`;
+	document.body.style.backgroundImage = `url('${url_image}')`;
 	document.body.style.backgroundRepeat = "no-repeat";
 	document.body.style.backgroundSize = "100% auto";
 
