@@ -1608,46 +1608,6 @@
     "Geo3x3": "E91395413323439682"
   },
   {
-    "id": "413",
-    "code": "FsAkk",
-    "pref": "新潟県",
-    "title": "天使の梯子（星峠）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
-  },
-  {
-    "id": "415",
-    "code": "YMkiM",
-    "pref": "福島県",
-    "title": "只見川第一橋梁",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237744213259"
-  },
-  {
-    "id": "417",
-    "code": "k8SHa",
-    "pref": "新潟県",
-    "title": "白鳥の湖(瓢湖)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635693726537739"
-  },
-  {
-    "id": "418",
-    "code": "vRHzC",
-    "pref": "新潟県",
-    "title": "滝雲(枝折峠)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688735222327"
-  },
-  {
-    "id": "419",
-    "code": "2KWHx",
-    "pref": "山梨県",
-    "title": "初冬の光景（本栖湖からの眺望）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395416242494124"
-  },
-  {
     "id": "420",
     "code": "t9XMo",
     "pref": "広島県",
@@ -1670,22 +1630,6 @@
     "title": "Skytree",
     "author": "asilly",
     "Geo3x3": "E91396915373843651"
-  },
-  {
-    "id": "433",
-    "code": "RW7fA",
-    "pref": "埼玉県",
-    "title": "狭山湖からの富士山",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91396753563479342"
-  },
-  {
-    "id": "434",
-    "code": "Erj8d",
-    "pref": "山梨県",
-    "title": "朝焼けの富士",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395416242494124"
   },
   {
     "id": "439",
@@ -1718,22 +1662,6 @@
     "title": "鵠沼海岸夕景",
     "author": "nonstagram47",
     "Geo3x3": "E91396165915376521"
-  },
-  {
-    "id": "450",
-    "code": "fNVUW",
-    "pref": "新潟県",
-    "title": "春光(福島潟)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635933463246852"
-  },
-  {
-    "id": "453",
-    "code": "0xE72",
-    "pref": "新潟県",
-    "title": "黄金の輝き(福島潟)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635933463246852"
   },
   {
     "id": "458",
@@ -1782,14 +1710,6 @@
     "title": "倉敷美観地区の夜景",
     "author": "Yudai_photography",
     "Geo3x3": "E91371267669223584"
-  },
-  {
-    "id": "488",
-    "code": "Ui3np",
-    "pref": "新潟県",
-    "title": "儀明の桜",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632478195279548"
   },
   {
     "id": "490",
@@ -1856,14 +1776,6 @@
     "Geo3x3": "E92411336889194985"
   },
   {
-    "id": "508",
-    "code": "VLukX",
-    "pref": "福島県",
-    "title": "滝桜",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414236392319859"
-  },
-  {
     "id": "509",
     "code": "b0Rj8",
     "pref": "香川県",
@@ -1894,14 +1806,6 @@
     "title": "富士スピードウェイ",
     "author": "Hiroki_Hieda",
     "Geo3x3": "E91395293416244224"
-  },
-  {
-    "id": "516",
-    "code": "1lyue",
-    "pref": "新潟県",
-    "title": "棚田の夜明け",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
   },
   {
     "id": "517",
@@ -2126,14 +2030,6 @@
     "title": "渋谷センター街交差点",
     "author": "tmano",
     "Geo3x3": "E91396598176771879"
-  },
-  {
-    "id": "593",
-    "code": "1lQJY",
-    "pref": "新潟県",
-    "title": "黄金色の輝く雲海(星峠)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
   },
   {
     "id": "594",
@@ -2448,22 +2344,6 @@
     "Geo3x3": "E91381725973278922"
   },
   {
-    "id": "663",
-    "code": "Q2OeJ",
-    "pref": "新潟県",
-    "title": "星峠の光芒",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
-  },
-  {
-    "id": "666",
-    "code": "KHCzG",
-    "pref": "福島県",
-    "title": "涼を求めて(達沢不動滝)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414193813777225"
-  },
-  {
     "id": "671",
     "code": "MbAnq",
     "pref": "沖縄県",
@@ -2544,14 +2424,6 @@
     "Geo3x3": "E91371964853419914"
   },
   {
-    "id": "734",
-    "code": "aSrT5",
-    "pref": "新潟県",
-    "title": "長岡の花火",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635224427282449"
-  },
-  {
     "id": "747",
     "code": "MYkpA",
     "pref": "長野県",
@@ -2560,36 +2432,12 @@
     "Geo3x3": "E91397336715713716"
   },
   {
-    "id": "751",
-    "code": "Um8rP",
-    "pref": "新潟県",
-    "title": "長岡 花火大会",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635224427282449"
-  },
-  {
     "id": "754",
     "code": "plmNy",
     "pref": "大阪府",
     "title": "空中庭園から見た光",
     "author": "maigo_27",
     "Geo3x3": "E91373631566711981"
-  },
-  {
-    "id": "757",
-    "code": "ru8R8",
-    "pref": "新潟県",
-    "title": "冬の朝(十日町市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632496863576562"
-  },
-  {
-    "id": "758",
-    "code": "9nf7t",
-    "pref": "新潟県",
-    "title": "笹川流れ(村上市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91639432272576877"
   },
   {
     "id": "774",
@@ -2672,14 +2520,6 @@
     "Geo3x3": "E91374169476377337"
   },
   {
-    "id": "803",
-    "code": "mS1eV",
-    "pref": "新潟県",
-    "title": "滝雲(枝折峠)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688735222327"
-  },
-  {
     "id": "805",
     "code": "KBlZV",
     "pref": "鳥取県",
@@ -2704,22 +2544,6 @@
     "Geo3x3": "E91395424148592537"
   },
   {
-    "id": "817",
-    "code": "XAl8I",
-    "pref": "福島県",
-    "title": "毘沙門沼（五色沼湖沼群）の秋",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414187786618229"
-  },
-  {
-    "id": "821",
-    "code": "9861m",
-    "pref": "群馬県",
-    "title": "覚満淵の秋",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398964555544125"
-  },
-  {
     "id": "822",
     "code": "nr1Us",
     "pref": "京都府",
@@ -2742,30 +2566,6 @@
     "title": "紅葉の尾瀬",
     "author": "suzuhiro",
     "Geo3x3": "E91632389934671844"
-  },
-  {
-    "id": "831",
-    "code": "5MY8e",
-    "pref": "新潟県",
-    "title": "福島潟の夜明け",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635933329695987"
-  },
-  {
-    "id": "834",
-    "code": "XR12R",
-    "pref": "長野県",
-    "title": "戸隠・鏡池の紅葉",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631242214611954"
-  },
-  {
-    "id": "841",
-    "code": "0Sf83",
-    "pref": "長野県",
-    "title": "御射鹿池の秋",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91397341973711495"
   },
   {
     "id": "843",
@@ -2846,14 +2646,6 @@
     "title": "竜泊ライン：国道339",
     "author": "Yo_Takehana",
     "Geo3x3": "E92471252717161978"
-  },
-  {
-    "id": "859",
-    "code": "xiUqM",
-    "pref": "長野県",
-    "title": "秋山郷の秋(栄村・屋敷山)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632181791824852"
   },
   {
     "id": "860",
@@ -2952,14 +2744,6 @@
     "Geo3x3": "E91375626336965273"
   },
   {
-    "id": "906",
-    "code": "P2pU2",
-    "pref": "新潟県",
-    "title": "信濃川",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632846159521262"
-  },
-  {
     "id": "913",
     "code": "WXD3W",
     "pref": "愛媛県",
@@ -2976,28 +2760,12 @@
     "Geo3x3": "E91269167137467545"
   },
   {
-    "id": "916",
-    "code": "9d6mG",
-    "pref": "山梨県",
-    "title": "朝陽を浴びる富士山",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395416242494124"
-  },
-  {
     "id": "923",
     "code": "FdyYX",
     "pref": "兵庫県",
     "title": "新舞子浜　マジックアワー",
     "author": "rikky_photography",
     "Geo3x3": "E91372539885379469"
-  },
-  {
-    "id": "925",
-    "code": "pxwez",
-    "pref": "福島県",
-    "title": "晩秋を走る(只見川第一橋梁)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237744213259"
   },
   {
     "id": "932",
@@ -3032,22 +2800,6 @@
     "Geo3x3": "E91395582395464733"
   },
   {
-    "id": "943",
-    "code": "MTi9H",
-    "pref": "茨城県",
-    "title": "大洗磯前神社・神磯の鳥居",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92177657255755557"
-  },
-  {
-    "id": "948",
-    "code": "FIDvH",
-    "pref": "茨城県",
-    "title": "月の光に照らされた大洗磯前神社・神磯の鳥居",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92177657255755557"
-  },
-  {
     "id": "950",
     "code": "L1SOI",
     "pref": "京都府",
@@ -3080,28 +2832,12 @@
     "Geo3x3": "E91373526492251489"
   },
   {
-    "id": "960",
-    "code": "aPJyJ",
-    "pref": "茨城県",
-    "title": "朝陽に照らされる神磯の鳥居(大洗磯前神社)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92177657255755557"
-  },
-  {
     "id": "967",
     "code": "nTUK9",
     "pref": "兵庫県",
     "title": "豊岡の厳島神社(楽々浦宮)",
     "author": "rikky_photography",
     "Geo3x3": "E91376471759194667"
-  },
-  {
-    "id": "975",
-    "code": "MWkbg",
-    "pref": "福島県",
-    "title": "冬の朝(桧原湖)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414416125416645"
   },
   {
     "id": "976",
@@ -3128,28 +2864,12 @@
     "Geo3x3": "E92442341679854637"
   },
   {
-    "id": "986",
-    "code": "p37Qk",
-    "pref": "新潟県",
-    "title": "冬の星峠",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
-  },
-  {
     "id": "987",
     "code": "lfTw3",
     "pref": "鳥取県",
     "title": "明智峠から見る裏大山(朝焼け)",
     "author": "rikky_photography",
     "Geo3x3": "E91374121131877121"
-  },
-  {
-    "id": "991",
-    "code": "WcMzR",
-    "pref": "山形県",
-    "title": "銀山温泉",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92417672514472268"
   },
   {
     "id": "992",
@@ -3174,22 +2894,6 @@
     "title": "大峯と天使の梯子",
     "author": "Pandar",
     "Geo3x3": "E91357911223268472"
-  },
-  {
-    "id": "1000",
-    "code": "WS7Qv",
-    "pref": "山形県",
-    "title": "樹氷ライトアップ(蔵王温泉スキー場)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92417223866211698"
-  },
-  {
-    "id": "1003",
-    "code": "pl4Tk",
-    "pref": "山形県",
-    "title": "アイスモンスターの行進（蔵王温泉スキー場）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92417223866211698"
   },
   {
     "id": "1008",
@@ -3224,14 +2928,6 @@
     "Geo3x3": "E92721199116558296"
   },
   {
-    "id": "1033",
-    "code": "UQjeO",
-    "pref": "富山県",
-    "title": "冬の庄川峡",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91388965993137766"
-  },
-  {
     "id": "1055",
     "code": "BnmJG",
     "pref": "京都府",
@@ -3264,28 +2960,12 @@
     "Geo3x3": "E91394943866317746"
   },
   {
-    "id": "1071",
-    "code": "Coi1a",
-    "pref": "福島県",
-    "title": "雪降る大内宿",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91633981398454594"
-  },
-  {
     "id": "1074",
     "code": "ttYjm",
     "pref": "北海道",
     "title": "小樽運河(冬)",
     "author": "Yo_Takehana",
     "Geo3x3": "E92478844252955167"
-  },
-  {
-    "id": "1077",
-    "code": "H4DNy",
-    "pref": "岐阜県",
-    "title": "冬の白川郷",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91388652137949237"
   },
   {
     "id": "1078",
@@ -3326,14 +3006,6 @@
     "title": "夜が明ける",
     "author": "Tomato_249",
     "Geo3x3": "E91374192828834216"
-  },
-  {
-    "id": "1104",
-    "code": "TXMEj",
-    "pref": "岐阜県",
-    "title": "冬の夜(白川郷)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91388652137949237"
   },
   {
     "id": "1106",
@@ -3976,14 +3648,6 @@
     "Geo3x3": "E92174229444698829"
   },
   {
-    "id": "1296",
-    "code": "oNT57",
-    "pref": "福島県",
-    "title": "花見山公園の春",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414641118776856"
-  },
-  {
     "id": "1298",
     "code": "sFn9j",
     "pref": "新潟県",
@@ -4000,28 +3664,12 @@
     "Geo3x3": "E91374191915929538"
   },
   {
-    "id": "1305",
-    "code": "08FXJ",
-    "pref": "山梨県",
-    "title": "新倉山浅間公園（忠霊塔）の桜",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395518469268383"
-  },
-  {
     "id": "1306",
     "code": "KuP0S",
     "pref": "福島県",
     "title": "春の香りに包まれて",
     "author": "OsamuYoshida",
     "Geo3x3": "E92414641186438813"
-  },
-  {
-    "id": "1309",
-    "code": "v6SMt",
-    "pref": "新潟県",
-    "title": "高田公園の夜桜",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631596251796459"
   },
   {
     "id": "1310",
@@ -4174,14 +3822,6 @@
     "title": "わに塚の桜",
     "author": "Suganu0405",
     "Geo3x3": "E91394926235951289"
-  },
-  {
-    "id": "1413",
-    "code": "JRIKZ",
-    "pref": "新潟県",
-    "title": "中子の桜",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632416966443231"
   },
   {
     "id": "1416",
@@ -4408,14 +4048,6 @@
     "Geo3x3": "E91395148732891424"
   },
   {
-    "id": "1509",
-    "code": "wF59f",
-    "pref": "新潟県",
-    "title": "越後平野",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635515865548946"
-  },
-  {
     "id": "1511",
     "code": "uXgjh",
     "pref": "佐賀県",
@@ -4560,14 +4192,6 @@
     "Geo3x3": "E92474152951817573"
   },
   {
-    "id": "1567",
-    "code": "1O3pf",
-    "pref": "新潟県",
-    "title": "越後平野の夕焼け",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635627154555329"
-  },
-  {
     "id": "1568",
     "code": "SFw03",
     "pref": "東京都",
@@ -4664,14 +4288,6 @@
     "Geo3x3": "E91388858248775653"
   },
   {
-    "id": "1617",
-    "code": "hmkP9",
-    "pref": "福島県",
-    "title": "達沢不動滝",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414193819771918"
-  },
-  {
     "id": "1620",
     "code": "4kx6f",
     "pref": "青森県",
@@ -4734,14 +4350,6 @@
     "title": "霧の御射鹿池",
     "author": "Akiko_Toshinai",
     "Geo3x3": "E91397341973717127"
-  },
-  {
-    "id": "1659",
-    "code": "Iryw3",
-    "pref": "新潟県",
-    "title": "早春のはさ木",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632842871454926"
   },
   {
     "id": "1669",
@@ -4960,14 +4568,6 @@
     "Geo3x3": "E91375523445259341"
   },
   {
-    "id": "1734",
-    "code": "p4Qb5",
-    "pref": "福島県",
-    "title": "只見川第一橋梁・夏",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237744213259"
-  },
-  {
     "id": "1742",
     "code": "tX8GU",
     "pref": "兵庫県",
@@ -4998,14 +4598,6 @@
     "title": "畑ヶ平(光芒の朝　其のニ)",
     "author": "rikky_photography",
     "Geo3x3": "E91375523445259341"
-  },
-  {
-    "id": "1751",
-    "code": "d7Biv",
-    "pref": "新潟県",
-    "title": "夜空の華(おぢやまつり大花火大会)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632848472237864"
   },
   {
     "id": "1752",
@@ -5094,22 +4686,6 @@
     "title": "別宮の棚田",
     "author": "rikky_photography",
     "Geo3x3": "E91375296283559365"
-  },
-  {
-    "id": "1792",
-    "code": "niSEj",
-    "pref": "長野県",
-    "title": "渋峠の雲海",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777897469338"
-  },
-  {
-    "id": "1795",
-    "code": "HUjOO",
-    "pref": "長野県",
-    "title": "渋峠(芳ケ平湿原、草津白根山を望む)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777897469338"
   },
   {
     "id": "1796",
@@ -5208,22 +4784,6 @@
     "Geo3x3": "E91256319247455342"
   },
   {
-    "id": "1830",
-    "code": "KYrHS",
-    "pref": "山梨県",
-    "title": "新春の富士山(本栖湖より)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395416242494124"
-  },
-  {
-    "id": "1836",
-    "code": "ZD4Xl",
-    "pref": "新潟県",
-    "title": "深まる秋(星峠)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
-  },
-  {
     "id": "1841",
     "code": "xMEQL",
     "pref": "鳥取県",
@@ -5296,44 +4856,12 @@
     "Geo3x3": "E91374283491875934"
   },
   {
-    "id": "1860",
-    "code": "5oxjd",
-    "pref": "長野県",
-    "title": "渋峠(北アルプスを望む)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777897469338"
-  },
-  {
-    "id": "1862",
-    "code": "DNka4",
-    "pref": "長野県",
-    "title": "高ボッチ山から望む富士山",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91397274564897576"
-  },
-  {
     "id": "1870",
     "code": "o9Frj",
     "pref": "鳥取県",
     "title": "江府町　木谷沢渓流(其のニ)",
     "author": "rikky_photography",
     "Geo3x3": "E91374169476377337"
-  },
-  {
-    "id": "1873",
-    "code": "u0qq3",
-    "pref": "福島県",
-    "title": "磐梯吾妻スカイライン紅葉(浄土平付近)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414517465867556"
-  },
-  {
-    "id": "1887",
-    "code": "33yex",
-    "pref": "長野県",
-    "title": "木戸池 紅葉（志賀高原）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631336145547273"
   },
   {
     "id": "1895",
@@ -5344,36 +4872,12 @@
     "Geo3x3": "E91381728475224198"
   },
   {
-    "id": "1897",
-    "code": "nY48c",
-    "pref": "長野県",
-    "title": "戸隠鏡池　紅葉",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631242213712884"
-  },
-  {
-    "id": "1898",
-    "code": "AWKdl",
-    "pref": "長野県",
-    "title": "木戸池（志賀高原）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631336145547273"
-  },
-  {
     "id": "1899",
     "code": "Zo5Xj",
     "pref": "鳥取県",
     "title": "鍵掛峠(秋の朝)",
     "author": "rikky_photography",
     "Geo3x3": "E91374168959388324"
-  },
-  {
-    "id": "1908",
-    "code": "SQvh9",
-    "pref": "福島県",
-    "title": "只見川第一橋梁(只見線) 秋の風景",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237744213259"
   },
   {
     "id": "1909",
@@ -5406,14 +4910,6 @@
     "title": "モルゲンロート　涸沢　",
     "author": "The-nature_77",
     "Geo3x3": "E91389661834457155"
-  },
-  {
-    "id": "1923",
-    "code": "tKlxe",
-    "pref": "山梨県",
-    "title": "朝陽に輝く富士山",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395465359593872"
   },
   {
     "id": "1929",
@@ -5496,14 +4992,6 @@
     "Geo3x3": "E91389949872733788"
   },
   {
-    "id": "1960",
-    "code": "3Zn46",
-    "pref": "山梨県",
-    "title": "日暮れの光景(富士山と河口湖)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395465359593872"
-  },
-  {
     "id": "1961",
     "code": "LZud2",
     "pref": "兵庫県",
@@ -5576,22 +5064,6 @@
     "Geo3x3": "E91229883932518983"
   },
   {
-    "id": "1983",
-    "code": "QIJ0Z",
-    "pref": "山梨県",
-    "title": "富士山と河口湖畔の紅葉",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395463297224282"
-  },
-  {
-    "id": "1986",
-    "code": "Tir9T",
-    "pref": "新潟県",
-    "title": "マジックアワー(笹川流れ)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91639198195419921"
-  },
-  {
     "id": "1988",
     "code": "30L9P",
     "pref": "長野県",
@@ -5608,36 +5080,12 @@
     "Geo3x3": "E92731723284975698"
   },
   {
-    "id": "1994",
-    "code": "Vlefo",
-    "pref": "岐阜県",
-    "title": "三つ子の合掌造り(白川郷)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91388652137949237"
-  },
-  {
-    "id": "1995",
-    "code": "1zYY6",
-    "pref": "新潟県",
-    "title": "小千谷祭り大花火大会",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632848476426664"
-  },
-  {
     "id": "1996",
     "code": "NbkyS",
     "pref": "兵庫県",
     "title": "猫崎灯台(兵庫県最北端)",
     "author": "rikky_photography",
     "Geo3x3": "E91375698755549958"
-  },
-  {
-    "id": "1999",
-    "code": "2hgQ0",
-    "pref": "新潟県",
-    "title": "瓢湖の白鳥おじさん(阿賀野市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635693726253853"
   },
   {
     "id": "2003",
@@ -5688,14 +5136,6 @@
     "Geo3x3": "E92472771882749139"
   },
   {
-    "id": "2017",
-    "code": "Ci1dV",
-    "pref": "新潟県",
-    "title": "マジックアワー(福島潟)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635933463246852"
-  },
-  {
     "id": "2019",
     "code": "x29Ss",
     "pref": "香川県",
@@ -5710,30 +5150,6 @@
     "title": "湊宮の桟橋",
     "author": "rikky_photography",
     "Geo3x3": "E91376484689258633"
-  },
-  {
-    "id": "2024",
-    "code": "lPKoA",
-    "pref": "新潟県",
-    "title": "光芒輝く朝(星峠)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
-  },
-  {
-    "id": "2025",
-    "code": "oC6eN",
-    "pref": "群馬県",
-    "title": "日の出(渋峠)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777897945821"
-  },
-  {
-    "id": "2027",
-    "code": "fiKpK",
-    "pref": "長野県",
-    "title": "横手山付近(志賀高原)から望む北アルプスに沈む夕陽",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632111138243395"
   },
   {
     "id": "2028",
@@ -5766,14 +5182,6 @@
     "title": "屛風ヶ浦を臨む",
     "author": "KazuyoYakushiji",
     "Geo3x3": "E92175724235825363"
-  },
-  {
-    "id": "2039",
-    "code": "LdnxQ",
-    "pref": "新潟県",
-    "title": "妻入りの街並み(出雲崎町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635164665626164"
   },
   {
     "id": "2040",
@@ -6008,22 +5416,6 @@
     "Geo3x3": "E91375624464545589"
   },
   {
-    "id": "2149",
-    "code": "01aHb",
-    "pref": "福島県",
-    "title": "裏磐梯 朝の風景",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414415356641812"
-  },
-  {
-    "id": "2151",
-    "code": "0Lj8F",
-    "pref": "福島県",
-    "title": "只見線・第三只見川橋梁（大沼郡三島町）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237744213259"
-  },
-  {
     "id": "2152",
     "code": "7oNuY",
     "pref": "滋賀県",
@@ -6150,14 +5542,6 @@
     "title": "夜明け",
     "author": "H_Harry",
     "Geo3x3": "E91399534419115323"
-  },
-  {
-    "id": "2194",
-    "code": "k1S5F",
-    "pref": "新潟県",
-    "title": "星峠・春の風景",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
   },
   {
     "id": "2197",
@@ -6360,14 +5744,6 @@
     "Geo3x3": "E91396568432759226"
   },
   {
-    "id": "2293",
-    "code": "DvALa",
-    "pref": "新潟県",
-    "title": "長岡の花火",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635224427564174"
-  },
-  {
     "id": "2294",
     "code": "sBKbW",
     "pref": "宮崎県",
@@ -6382,14 +5758,6 @@
     "title": "夕日ヶ浦の夕景",
     "author": "rikky_photography",
     "Geo3x3": "E91376489538124456"
-  },
-  {
-    "id": "2305",
-    "code": "Ivycb",
-    "pref": "新潟県",
-    "title": "越後山古志の闘牛(牛の角突き)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632883137615384"
   },
   {
     "id": "2311",
@@ -6414,14 +5782,6 @@
     "title": "丹後ブルー",
     "author": "rikky_photography",
     "Geo3x3": "E91376819517372844"
-  },
-  {
-    "id": "2327",
-    "code": "BNpW9",
-    "pref": "新潟県",
-    "title": "「良寛と夕日の丘公園」(出雲崎町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635164786349635"
   },
   {
     "id": "2331",
@@ -6592,22 +5952,6 @@
     "Geo3x3": "E91396248582388555"
   },
   {
-    "id": "2383",
-    "code": "hHx8r",
-    "pref": "新潟県",
-    "title": "美人林(十日町市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632481863294978"
-  },
-  {
-    "id": "2388",
-    "code": "r1rgn",
-    "pref": "新潟県",
-    "title": "夕暮れのはさ木並木(新潟市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635658953182443"
-  },
-  {
     "id": "2389",
     "code": "y7Ikk",
     "pref": "兵庫県",
@@ -6638,14 +5982,6 @@
     "title": "稲穂パッチワーク",
     "author": "TAKAYOSHI_ENDOU",
     "Geo3x3": "E91349658146528656"
-  },
-  {
-    "id": "2395",
-    "code": "PsSx7",
-    "pref": "新潟県",
-    "title": "星峠, 癒しの光景(十日町市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812548718"
   },
   {
     "id": "2396",
@@ -6728,22 +6064,6 @@
     "Geo3x3": "E91349549487342991"
   },
   {
-    "id": "2422",
-    "code": "ZH5C8",
-    "pref": "新潟県",
-    "title": "護摩堂山の紫陽花",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635627185683171"
-  },
-  {
-    "id": "2423",
-    "code": "82loJ",
-    "pref": "新潟県",
-    "title": "初夏の目覚め(山古志の棚田・棚池)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632883137615384"
-  },
-  {
     "id": "2432",
     "code": "vJK33",
     "pref": "兵庫県",
@@ -6798,14 +6118,6 @@
     "title": "勢い",
     "author": "TAKAYOSHI_ENDOU",
     "Geo3x3": "E91373576231398779"
-  },
-  {
-    "id": "2447",
-    "code": "SRQpY",
-    "pref": "新潟県",
-    "title": "蛍の舞　(たきがしら湿原・阿賀町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636247545956888"
   },
   {
     "id": "2452",
@@ -7144,14 +6456,6 @@
     "Geo3x3": "E92448425127567153"
   },
   {
-    "id": "2565",
-    "code": "q4fna",
-    "pref": "新潟県",
-    "title": "イエローカーペット（山本山高原・小千谷市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632845296653413"
-  },
-  {
     "id": "2571",
     "code": "Kn97R",
     "pref": "青森県",
@@ -7198,14 +6502,6 @@
     "title": "昼神温泉からの北極星",
     "author": "Akiko_Toshinai",
     "Geo3x3": "E91386631942652715"
-  },
-  {
-    "id": "2600",
-    "code": "zhafS",
-    "pref": "新潟県",
-    "title": "錦秋の渓谷(清津峡渓谷・津南町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632436914338842"
   },
   {
     "id": "2601",
@@ -7552,14 +6848,6 @@
     "Geo3x3": "E91385836952167435"
   },
   {
-    "id": "2715",
-    "code": "oYOjN",
-    "pref": "新潟県",
-    "title": "水鏡(長手岬・佐渡市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634838878182545"
-  },
-  {
     "id": "2718",
     "code": "5t5QV",
     "pref": "青森県",
@@ -7582,14 +6870,6 @@
     "title": "赤富士",
     "author": "Jun_k",
     "Geo3x3": "E91395463199553167"
-  },
-  {
-    "id": "2728",
-    "code": "xfhWD",
-    "pref": "新潟県",
-    "title": "島の夜明け（ドンデン山頂付近・佐渡市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634988577422351"
   },
   {
     "id": "2732",
@@ -7720,14 +7000,6 @@
     "Geo3x3": "E91388628774238389"
   },
   {
-    "id": "2767",
-    "code": "mslup",
-    "pref": "新潟県",
-    "title": "尖閣湾(佐渡市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634896131514293"
-  },
-  {
     "id": "2768",
     "code": "qLytg",
     "pref": "兵庫県",
@@ -7742,14 +7014,6 @@
     "title": "楽々浦の厳島神社(鏡面世界)",
     "author": "rikky_photography",
     "Geo3x3": "E91376471767131774"
-  },
-  {
-    "id": "2771",
-    "code": "iGLwt",
-    "pref": "群馬県",
-    "title": "芳ケ平の夜明け(中之条町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398778472954818"
   },
   {
     "id": "2773",
@@ -8064,28 +7328,12 @@
     "Geo3x3": "E92447376863299481"
   },
   {
-    "id": "2834",
-    "code": "VprYW",
-    "pref": "新潟県",
-    "title": "木漏れ日の中で（美人林・十日町市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632481944585628"
-  },
-  {
     "id": "2835",
     "code": "hLCL6",
     "pref": "兵庫県",
     "title": "城崎に向かう雲海",
     "author": "rikky_photography",
     "Geo3x3": "E91375692692133246"
-  },
-  {
-    "id": "2836",
-    "code": "zqPoU",
-    "pref": "新潟県",
-    "title": "空の青そして海の青さよ(笹川流れ・村上市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91639198786791315"
   },
   {
     "id": "2838",
@@ -8312,14 +7560,6 @@
     "Geo3x3": "E91396492715711627"
   },
   {
-    "id": "2876",
-    "code": "V8QPP",
-    "pref": "秋田県",
-    "title": "早春の夕景(鳥海山とオリオン座・にかほ市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91663629563153772"
-  },
-  {
     "id": "2880",
     "code": "ZJA2Q",
     "pref": "千葉県",
@@ -8334,14 +7574,6 @@
     "title": "夕べの運河…",
     "author": "Charlie_or_Y-N",
     "Geo3x3": "E92478844252839354"
-  },
-  {
-    "id": "2887",
-    "code": "VsnYr",
-    "pref": "宮城県",
-    "title": "初秋のお釜(蔵王町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414898572547839"
   },
   {
     "id": "2889",
@@ -8374,14 +7606,6 @@
     "title": "大内峠一字観公園(秋の朝焼け)",
     "author": "rikky_photography",
     "Geo3x3": "E91376546945731937"
-  },
-  {
-    "id": "2894",
-    "code": "BbHtU",
-    "pref": "宮城県",
-    "title": "蔵王・お釜(蔵王町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414898572547839"
   },
   {
     "id": "2898",
@@ -8472,14 +7696,6 @@
     "Geo3x3": "E91373193745574257"
   },
   {
-    "id": "2931",
-    "code": "Cg6Mz",
-    "pref": "長野県",
-    "title": "柱状節理と紅葉(屋敷山・栄村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632181794329392"
-  },
-  {
     "id": "2934",
     "code": "5K6IL",
     "pref": "熊本県",
@@ -8528,14 +7744,6 @@
     "Geo3x3": "E91631337635888381"
   },
   {
-    "id": "2946",
-    "code": "xFgP1",
-    "pref": "長野県",
-    "title": "雲のカーテン(高ボッチ山・塩尻市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91397274564897576"
-  },
-  {
     "id": "2948",
     "code": "T8lI2",
     "pref": "奈良県",
@@ -8582,22 +7790,6 @@
     "title": "虹架かる天滝",
     "author": "rikky_photography",
     "Geo3x3": "E91375348625141951"
-  },
-  {
-    "id": "2963",
-    "code": "T3qtj",
-    "pref": "長野県",
-    "title": "色とりどりの秋(横手山のぞき・下高井郡山ノ内町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632111141556465"
-  },
-  {
-    "id": "2964",
-    "code": "5WiIP",
-    "pref": "長野県",
-    "title": "水面に映る秋(木戸池・志賀高原)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631336141775221"
   },
   {
     "id": "2965",
@@ -8654,22 +7846,6 @@
     "title": "朝日に照らされる米塚と雲海",
     "author": "Kohji_Asakawa",
     "Geo3x3": "E91253991358597422"
-  },
-  {
-    "id": "2982",
-    "code": "tizib",
-    "pref": "福島県",
-    "title": "裏磐梯 紅葉(中津川渓谷・猪苗代町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414423812576326"
-  },
-  {
-    "id": "2985",
-    "code": "O12l4",
-    "pref": "新潟県",
-    "title": "滝雲(枝折峠・魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688735268652"
   },
   {
     "id": "2987",
@@ -8768,14 +7944,6 @@
     "Geo3x3": "E91229599278194994"
   },
   {
-    "id": "3018",
-    "code": "nSEjB",
-    "pref": "新潟県",
-    "title": "魚沼の秋(魚沼スカイライン魚沼展望台・南魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632541582977294"
-  },
-  {
     "id": "3019",
     "code": "4mI8s",
     "pref": "兵庫県",
@@ -8864,14 +8032,6 @@
     "Geo3x3": "E91374618934743946"
   },
   {
-    "id": "3040",
-    "code": "XRuGP",
-    "pref": "新潟県",
-    "title": "雪山と名残の紅葉(銀山平・魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688318158777"
-  },
-  {
     "id": "3054",
     "code": "x3mXZ",
     "pref": "兵庫県",
@@ -8918,14 +8078,6 @@
     "title": "夜明け前",
     "author": "F_Photo",
     "Geo3x3": "E91395148852149372"
-  },
-  {
-    "id": "3063",
-    "code": "etN83",
-    "pref": "新潟県",
-    "title": "朝日に輝く紅葉(長岡市山古志地区)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632883137615384"
   },
   {
     "id": "3071",
@@ -8990,22 +8142,6 @@
     "title": "灯り",
     "author": "F_Photo",
     "Geo3x3": "E91395399792538823"
-  },
-  {
-    "id": "3084",
-    "code": "pYNjw",
-    "pref": "福島県",
-    "title": "紅葉列車(第一只見川橋梁・三島町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237744213259"
-  },
-  {
-    "id": "3085",
-    "code": "DIyrD",
-    "pref": "山梨県",
-    "title": "夕富士（笛吹市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395465359593872"
   },
   {
     "id": "3087",
@@ -9104,22 +8240,6 @@
     "Geo3x3": "E91381825412732735"
   },
   {
-    "id": "3111",
-    "code": "9Cgbl",
-    "pref": "新潟県",
-    "title": "晩秋の光景(苗名滝・妙高市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631281932822313"
-  },
-  {
-    "id": "3112",
-    "code": "laanc",
-    "pref": "新潟県",
-    "title": "晩秋の星空(銀山平・魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688318158777"
-  },
-  {
     "id": "3114",
     "code": "1vyKE",
     "pref": "埼玉県",
@@ -9214,14 +8334,6 @@
     "title": "西穂高岳",
     "author": "SHori",
     "Geo3x3": "E91389651438433218"
-  },
-  {
-    "id": "3159",
-    "code": "CoPqn",
-    "pref": "新潟県",
-    "title": "冬の漁港(出雲崎町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635156911997588"
   },
   {
     "id": "3160",
@@ -9328,30 +8440,6 @@
     "Geo3x3": "E91388923193145244"
   },
   {
-    "id": "3206",
-    "code": "zUyF9",
-    "pref": "山形県",
-    "title": "冬の温泉地（銀山温泉・尾花沢市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92417672462414945"
-  },
-  {
-    "id": "3207",
-    "code": "ZYQmH",
-    "pref": "山形県",
-    "title": "夕暮れの光景（銀山温泉・尾花沢市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92417672462414945"
-  },
-  {
-    "id": "3209",
-    "code": "FGJXK",
-    "pref": "福島県",
-    "title": "冬の大内宿(南会津郡)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91633981391577441"
-  },
-  {
     "id": "3215",
     "code": "Qwh5Z",
     "pref": "静岡県",
@@ -9366,14 +8454,6 @@
     "title": "冬の鎧駅",
     "author": "rikky_photography",
     "Geo3x3": "E91375677131632325"
-  },
-  {
-    "id": "3219",
-    "code": "mZzqF",
-    "pref": "福島県",
-    "title": "朝日を浴びる雪紋(桧原湖・北塩原村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414412898413754"
   },
   {
     "id": "3227",
@@ -9406,14 +8486,6 @@
     "title": "南宮稲荷神社",
     "author": "SHori",
     "Geo3x3": "E91385193432785752"
-  },
-  {
-    "id": "3237",
-    "code": "ViMnk",
-    "pref": "福島県",
-    "title": "しぶき氷(猪苗代湖・猪苗代町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414155164436913"
   },
   {
     "id": "3240",
@@ -9454,22 +8526,6 @@
     "title": "田貫湖",
     "author": "SHori",
     "Geo3x3": "E91395148854133623"
-  },
-  {
-    "id": "3246",
-    "code": "udFAb",
-    "pref": "福島県",
-    "title": "磐梯山と彩雲(桧原湖・北塩原村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414412899515611"
-  },
-  {
-    "id": "3248",
-    "code": "dAAAX",
-    "pref": "福島県",
-    "title": "裏磐梯  冬景色(秋元湖・北塩原村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414421339355881"
   },
   {
     "id": "3250",
@@ -9568,22 +8624,6 @@
     "Geo3x3": "E91385788892496262"
   },
   {
-    "id": "3280",
-    "code": "4frpz",
-    "pref": "福島県",
-    "title": "秋山の駒桜(川俣町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414616758744382"
-  },
-  {
-    "id": "3284",
-    "code": "XJK2e",
-    "pref": "新潟県",
-    "title": "春の風景(福島潟・新潟市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635933463246243"
-  },
-  {
     "id": "3286",
     "code": "GQ7X0",
     "pref": "福島県",
@@ -9632,14 +8672,6 @@
     "Geo3x3": "E91375669137117675"
   },
   {
-    "id": "3300",
-    "code": "ycX32",
-    "pref": "新潟県",
-    "title": "大河の流れ(信濃川・小千谷市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632846183567248"
-  },
-  {
     "id": "3301",
     "code": "xSFTw",
     "pref": "奈良県",
@@ -9686,14 +8718,6 @@
     "title": "時の流れ・・・",
     "author": "TAKAYOSHI_ENDOU",
     "Geo3x3": "E91373576231398779"
-  },
-  {
-    "id": "3320",
-    "code": "EIpte",
-    "pref": "山梨県",
-    "title": "桜と富士(富士吉田市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395518465158241"
   },
   {
     "id": "3323",
@@ -9832,22 +8856,6 @@
     "Geo3x3": "E91396595358188157"
   },
   {
-    "id": "3357",
-    "code": "uIe2J",
-    "pref": "新潟県",
-    "title": "沸き立つ雲海(長岡市山古志地区)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632858571782777"
-  },
-  {
-    "id": "3358",
-    "code": "T8xjN",
-    "pref": "新潟県",
-    "title": "早春の越後三山(越後川口)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632846183715382"
-  },
-  {
     "id": "3359",
     "code": "2d2J5",
     "pref": "福島県",
@@ -9982,14 +8990,6 @@
     "title": "春夜の出石神社",
     "author": "rikky_photography",
     "Geo3x3": "E91376416744265549"
-  },
-  {
-    "id": "3392",
-    "code": "iwaN7",
-    "pref": "新潟県",
-    "title": "雲海広がる春の朝(長岡市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632855175866365"
   },
   {
     "id": "3394",
@@ -10344,14 +9344,6 @@
     "Geo3x3": "E92478676914191278"
   },
   {
-    "id": "3519",
-    "code": "8PgL3",
-    "pref": "新潟県",
-    "title": "水鏡の越後平野(護摩堂山からの光景・田上町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635627185683171"
-  },
-  {
     "id": "3521",
     "code": "QSR5z",
     "pref": "兵庫県",
@@ -10390,14 +9382,6 @@
     "title": "散りゆく。",
     "author": "Masakazu_Murakami",
     "Geo3x3": "E91269985873319167"
-  },
-  {
-    "id": "3529",
-    "code": "30Y9l",
-    "pref": "新潟県",
-    "title": "ピンクムーンの夜に(新潟市夜景・朱鷺メッセ展望台)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635912976249422"
   },
   {
     "id": "3530",
@@ -10446,14 +9430,6 @@
     "title": "しまなみサイクリストの夕暮れ",
     "author": "Masakazu_Murakami",
     "Geo3x3": "E91269957971695881"
-  },
-  {
-    "id": "3539",
-    "code": "ZGTub",
-    "pref": "新潟県",
-    "title": "越後平野と彌彦神社大鳥居(弥彦山山頂・弥彦村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635515865548946"
   },
   {
     "id": "3542",
@@ -10552,14 +9528,6 @@
     "Geo3x3": "E91375528237322597"
   },
   {
-    "id": "3562",
-    "code": "UrtoQ",
-    "pref": "新潟県",
-    "title": "梅雨空の夕焼け(角田岬灯台・新潟市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635549117174918"
-  },
-  {
     "id": "3565",
     "code": "PSdLa",
     "pref": "東京都",
@@ -10590,14 +9558,6 @@
     "title": "徳島植物園",
     "author": "0313YS",
     "Geo3x3": "E91348539774514628"
-  },
-  {
-    "id": "3577",
-    "code": "fayHS",
-    "pref": "新潟県",
-    "title": "新緑の越後駒ケ岳(銀山平・魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688365553422"
   },
   {
     "id": "3579",
@@ -10784,22 +9744,6 @@
     "Geo3x3": "E91396436936233616"
   },
   {
-    "id": "3613",
-    "code": "fCdR1",
-    "pref": "新潟県",
-    "title": "笹川流れの夕焼け(村上市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91639198195451376"
-  },
-  {
-    "id": "3615",
-    "code": "jjfWr",
-    "pref": "新潟県",
-    "title": "マジックアワー (笹川流れ・村上市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91639198195451376"
-  },
-  {
     "id": "3617",
     "code": "8687j",
     "pref": "東京都",
@@ -10862,22 +9806,6 @@
     "title": "Blue in Summer...",
     "author": "Charlie_or_Y-N",
     "Geo3x3": "E92718556489187642"
-  },
-  {
-    "id": "3625",
-    "code": "3h5rc",
-    "pref": "新潟県",
-    "title": "灯台と真夏の銀河（新潟県佐渡市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634591237945594"
-  },
-  {
-    "id": "3627",
-    "code": "lIqE0",
-    "pref": "新潟県",
-    "title": "夕焼けに映える灯台(新潟県佐渡市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634591237945594"
   },
   {
     "id": "3632",
@@ -10974,14 +9902,6 @@
     "title": "It is colorful, indeed...",
     "author": "Charlie_or_Y-N",
     "Geo3x3": "E92721196356441732"
-  },
-  {
-    "id": "3655",
-    "code": "hvF5E",
-    "pref": "新潟県",
-    "title": "星空と滝雲と....(枝折峠・魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688767238535"
   },
   {
     "id": "3656",
@@ -11118,14 +10038,6 @@
     "title": "朝日を浴びる秋の鹿",
     "author": "harukaze-hiro",
     "Geo3x3": "E91381278843114585"
-  },
-  {
-    "id": "3684",
-    "code": "vBV9L",
-    "pref": "群馬県",
-    "title": "東雲の渋峠",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777897945821"
   },
   {
     "id": "3688",
@@ -11424,14 +10336,6 @@
     "Geo3x3": "E91397354492341272"
   },
   {
-    "id": "3750",
-    "code": "1ayMc",
-    "pref": "新潟県",
-    "title": "夕暮れ(はまなすの丘・胎内市桃崎浜)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636789487928197"
-  },
-  {
     "id": "3753",
     "code": "OOx5n",
     "pref": "沖縄県",
@@ -11494,14 +10398,6 @@
     "title": "桃野湿原",
     "author": "SQUAREZERO",
     "Geo3x3": "E91392566629576256"
-  },
-  {
-    "id": "3764",
-    "code": "ATzmd",
-    "pref": "群馬県",
-    "title": "芳ケ平湿原の紅葉",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398778474352364"
   },
   {
     "id": "3765",
@@ -11584,14 +10480,6 @@
     "Geo3x3": "E91396528754618793"
   },
   {
-    "id": "3781",
-    "code": "St0pP",
-    "pref": "新潟県",
-    "title": "苗名滝の月虹(妙高市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631281932822313"
-  },
-  {
     "id": "3782",
     "code": "Zohe6",
     "pref": "広島県",
@@ -11664,14 +10552,6 @@
     "Geo3x3": "E91381979212466395"
   },
   {
-    "id": "3795",
-    "code": "DZ4g4",
-    "pref": "新潟県",
-    "title": "晩秋の風景（銀山平・魚沼市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688318158777"
-  },
-  {
     "id": "3796",
     "code": "HysuK",
     "pref": "宮崎県",
@@ -11694,14 +10574,6 @@
     "title": "藤原宮跡",
     "author": "SHori",
     "Geo3x3": "E91381217152212824"
-  },
-  {
-    "id": "3804",
-    "code": "t4MH4",
-    "pref": "新潟県",
-    "title": "Yellow World(美人林・十日町市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632481863899151"
   },
   {
     "id": "3805",
@@ -11752,14 +10624,6 @@
     "Geo3x3": "E91396832273236851"
   },
   {
-    "id": "3813",
-    "code": "LqFmk",
-    "pref": "長野県",
-    "title": "夜明けの風景(高ボッチ高原・塩尻市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91397274564897576"
-  },
-  {
     "id": "3814",
     "code": "Gm6Wv",
     "pref": "埼玉県",
@@ -11808,14 +10672,6 @@
     "Geo3x3": "E91389627126968434"
   },
   {
-    "id": "3820",
-    "code": "fFVVr",
-    "pref": "長野県",
-    "title": "飯山線冬景色(下高井郡野沢温泉村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631626362587983"
-  },
-  {
     "id": "3822",
     "code": "byOBJ",
     "pref": "新潟県",
@@ -11854,14 +10710,6 @@
     "title": "秋の落とし物",
     "author": "TAKAYOSHI_ENDOU",
     "Geo3x3": "E91349777984942752"
-  },
-  {
-    "id": "3830",
-    "code": "QSm5o",
-    "pref": "福島県",
-    "title": "厳冬の磐梯山・主峰(剣ケ峰)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414176236443685"
   },
   {
     "id": "3838",
@@ -11928,14 +10776,6 @@
     "Geo3x3": "E91388131971528713"
   },
   {
-    "id": "3851",
-    "code": "9g1hR",
-    "pref": "新潟県",
-    "title": "朝陽と朝霧（小千谷市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632842989347262"
-  },
-  {
     "id": "3853",
     "code": "fv2Q0",
     "pref": "東京都",
@@ -11968,14 +10808,6 @@
     "Geo3x3": "E91623145349486154"
   },
   {
-    "id": "3867",
-    "code": "VVfek",
-    "pref": "新潟県",
-    "title": "青空の下で輝く越後駒ケ岳と中ノ岳（魚沼地方）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632677259199755"
-  },
-  {
     "id": "3868",
     "code": "FobKQ",
     "pref": "福島県",
@@ -12006,14 +10838,6 @@
     "title": "京都市　左京区 鞍馬　貴船神社参道",
     "author": "T-KIMURA",
     "Geo3x3": "E91381792831448162"
-  },
-  {
-    "id": "3876",
-    "code": "rFBKL",
-    "pref": "福島県",
-    "title": "磐梯山としぶき氷(猪苗代湖)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414155164436913"
   },
   {
     "id": "3877",
@@ -12192,14 +11016,6 @@
     "Geo3x3": "E67735773331592253"
   },
   {
-    "id": "3923",
-    "code": "P5B2z",
-    "pref": "新潟県",
-    "title": "オリオン座と夫婦桜(うわせき潟公園・新潟市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635554898656985"
-  },
-  {
     "id": "3924",
     "code": "NDTUc",
     "pref": "高知県",
@@ -12302,14 +11118,6 @@
     "title": "八坂の塔",
     "author": "SHori",
     "Geo3x3": "E91381739155995491"
-  },
-  {
-    "id": "3945",
-    "code": "fQiTT",
-    "pref": "新潟県",
-    "title": "妙高山とはねうま(妙高市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631287183395346"
   },
   {
     "id": "3950",
@@ -12488,22 +11296,6 @@
     "Geo3x3": "E91396599375991747"
   },
   {
-    "id": "3987",
-    "code": "lWbhf",
-    "pref": "新潟県",
-    "title": "雪山と春の天の川",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632848476426664"
-  },
-  {
-    "id": "3988",
-    "code": "90ntw",
-    "pref": "新潟県",
-    "title": "雪原の夜明け",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632848476426664"
-  },
-  {
     "id": "3994",
     "code": "KEyhG",
     "pref": "三重県",
@@ -12582,14 +11374,6 @@
     "title": "清滝の桜",
     "author": "rikky_photography",
     "Geo3x3": "E91375628314115923"
-  },
-  {
-    "id": "4015",
-    "code": "COfpF",
-    "pref": "新潟県",
-    "title": "春爛漫",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635933297638644"
   },
   {
     "id": "4016",
@@ -12760,14 +11544,6 @@
     "Geo3x3": "E91384262292885249"
   },
   {
-    "id": "4055",
-    "code": "i6dAp",
-    "pref": "新潟県",
-    "title": "桜...幻想的風景(弥彦公園・弥彦村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635516577562328"
-  },
-  {
     "id": "4060",
     "code": "8cz4O",
     "pref": "三重県",
@@ -12928,14 +11704,6 @@
     "Geo3x3": "E91384146579923592"
   },
   {
-    "id": "4103",
-    "code": "6zHyn",
-    "pref": "新潟県",
-    "title": "棚田に映る朝焼け（星峠・十日町市）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812388826"
-  },
-  {
     "id": "4109",
     "code": "Y2fYk",
     "pref": "兵庫県",
@@ -12974,14 +11742,6 @@
     "title": "夜明け前のレッドライン",
     "author": "furuken3",
     "Geo3x3": "E91623637772515839"
-  },
-  {
-    "id": "4119",
-    "code": "OaNO8",
-    "pref": "福島県",
-    "title": "水鏡 鉄道 第一只見川橋梁(大沼郡三島町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636237472762188"
   },
   {
     "id": "4121",
@@ -13128,14 +11888,6 @@
     "Geo3x3": "E91388993127574294"
   },
   {
-    "id": "4152",
-    "code": "XZbi2",
-    "pref": "新潟県",
-    "title": "雲海と光芒が織りなす夏の星峠(十日町市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632474812388826"
-  },
-  {
     "id": "4153",
     "code": "JWbbm",
     "pref": "兵庫県",
@@ -13174,14 +11926,6 @@
     "title": "大町市",
     "author": "SHori",
     "Geo3x3": "E91397743311874456"
-  },
-  {
-    "id": "4162",
-    "code": "av9i0",
-    "pref": "新潟県",
-    "title": "月明かりに照らされる越後平野",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635515865548946"
   },
   {
     "id": "4163",
@@ -13288,14 +12032,6 @@
     "Geo3x3": "E91375377485138284"
   },
   {
-    "id": "4185",
-    "code": "Sey3z",
-    "pref": "新潟県",
-    "title": "極上の朝焼け(小木港・佐渡ケ島)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634647872525497"
-  },
-  {
     "id": "4187",
     "code": "Z5bvJ",
     "pref": "静岡県",
@@ -13382,14 +12118,6 @@
     "title": "天ヶ峰の里  夫婦滝",
     "author": "rikky_photography",
     "Geo3x3": "E91376275669567773"
-  },
-  {
-    "id": "4214",
-    "code": "6T9C5",
-    "pref": "新潟県",
-    "title": "カンゾウの花が咲くころ(大野亀・佐渡ヶ島)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91637391397338693"
   },
   {
     "id": "4218",
@@ -13576,14 +12304,6 @@
     "Geo3x3": "E91373595386526219"
   },
   {
-    "id": "4265",
-    "code": "w93NI",
-    "pref": "新潟県",
-    "title": "棚池の中の空(長岡市山古志地区)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632882159262245"
-  },
-  {
     "id": "4266",
     "code": "EECeM",
     "pref": "兵庫県",
@@ -13662,14 +12382,6 @@
     "title": "香嵐渓",
     "author": "ha-hi",
     "Geo3x3": "E91383875115342738"
-  },
-  {
-    "id": "4290",
-    "code": "7gIVO",
-    "pref": "新潟県",
-    "title": "夏空（外海府・佐渡ヶ島）",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91637391397338693"
   },
   {
     "id": "4291",
@@ -13776,14 +12488,6 @@
     "Geo3x3": "E91374169478333688"
   },
   {
-    "id": "4313",
-    "code": "eyn4h",
-    "pref": "新潟県",
-    "title": "大自然に囲まれたメトロポリタン(越後湯沢)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632541582667184"
-  },
-  {
     "id": "4314",
     "code": "4htLX",
     "pref": "福島県",
@@ -13798,14 +12502,6 @@
     "title": "立山",
     "author": "SHori",
     "Geo3x3": "E91389957489462183"
-  },
-  {
-    "id": "4319",
-    "code": "Pqyy3",
-    "pref": "新潟県",
-    "title": "2022年長岡の花火",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635216576157161"
   },
   {
     "id": "4321",
@@ -13880,14 +12576,6 @@
     "Geo3x3": "E91349658148975998"
   },
   {
-    "id": "4337",
-    "code": "n1WmU",
-    "pref": "新潟県",
-    "title": "2022年長岡の花火",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635216576157161"
-  },
-  {
     "id": "4341",
     "code": "RK43Z",
     "pref": "沖縄県",
@@ -13926,14 +12614,6 @@
     "title": "蝦夷鹿の親子と目が合った",
     "author": "buchi",
     "Geo3x3": "E92478296468938667"
-  },
-  {
-    "id": "4358",
-    "code": "rAKfx",
-    "pref": "群馬県",
-    "title": "雲海のベールに包まれる温泉街(草津温泉)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398776625999718"
   },
   {
     "id": "4359",
@@ -14208,14 +12888,6 @@
     "Geo3x3": "E67845348974791375"
   },
   {
-    "id": "4445",
-    "code": "66y7f",
-    "pref": "新潟県",
-    "title": "岩船沖油ガス田(胎内市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91636787177749615"
-  },
-  {
     "id": "4446",
     "code": "nulYE",
     "pref": "北海道",
@@ -14286,14 +12958,6 @@
     "title": "秋の訪れ",
     "author": "F_Photo",
     "Geo3x3": "E91396775629911972"
-  },
-  {
-    "id": "4455",
-    "code": "urwDc",
-    "pref": "新潟県",
-    "title": "夕焼けに染まる市街地(新潟市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635915125679591"
   },
   {
     "id": "4456",
@@ -14382,14 +13046,6 @@
     "title": "天の真名井",
     "author": "rikky_photography",
     "Geo3x3": "E91374421367955446"
-  },
-  {
-    "id": "4474",
-    "code": "g1MPc",
-    "pref": "群馬県",
-    "title": "紅葉のワインディングロード(中之条町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777191199353"
   },
   {
     "id": "4475",
@@ -14504,14 +13160,6 @@
     "Geo3x3": "E91389381582853546"
   },
   {
-    "id": "4498",
-    "code": "h9PmT",
-    "pref": "長野県",
-    "title": "夕焼けと北アルプス(下高井郡山ノ内町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632111117427158"
-  },
-  {
     "id": "4500",
     "code": "KIcKP",
     "pref": "神奈川県",
@@ -14536,14 +13184,6 @@
     "Geo3x3": "E91389973688675934"
   },
   {
-    "id": "4504",
-    "code": "9CEIL",
-    "pref": "新潟県",
-    "title": "秋のラグジュアリータイム(新潟市西蒲区)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635549139775271"
-  },
-  {
     "id": "4506",
     "code": "ThpHr",
     "pref": "兵庫県",
@@ -14566,14 +13206,6 @@
     "title": "蔵王の御釡",
     "author": "K_W_",
     "Geo3x3": "E92414898274253934"
-  },
-  {
-    "id": "4509",
-    "code": "2Aw5N",
-    "pref": "福島県",
-    "title": "フロー(小野川不動滝・裏磐梯)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414425521369613"
   },
   {
     "id": "4510",
@@ -14784,14 +13416,6 @@
     "Geo3x3": "E92445237479144967"
   },
   {
-    "id": "4552",
-    "code": "8KuP8",
-    "pref": "長野県",
-    "title": "錦秋の布岩山(栄村・秋山郷)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632184527224842"
-  },
-  {
     "id": "4553",
     "code": "3wQYk",
     "pref": "愛媛県",
@@ -14848,14 +13472,6 @@
     "Geo3x3": "E92177458818642228"
   },
   {
-    "id": "4560",
-    "code": "CBhUT",
-    "pref": "新潟県",
-    "title": "街中のマジックアワー(新潟市中央区)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635912945956964"
-  },
-  {
     "id": "4561",
     "code": "2fts7",
     "pref": "千葉県",
@@ -14864,28 +13480,12 @@
     "Geo3x3": "E92174475837945663"
   },
   {
-    "id": "4564",
-    "code": "Adv4T",
-    "pref": "新潟県",
-    "title": "黄金色の風景(銀山平・魚沼市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632688318158777"
-  },
-  {
     "id": "4565",
     "code": "QpkoN",
     "pref": "宮崎県",
     "title": "比叡山",
     "author": "Shiro_KUROGI",
     "Geo3x3": "E91261581168613742"
-  },
-  {
-    "id": "4570",
-    "code": "sXfLQ",
-    "pref": "福島県",
-    "title": "千紫万紅の「つばくろう谷」(不動沢橋)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414542541332312"
   },
   {
     "id": "4572",
@@ -14918,22 +13518,6 @@
     "title": "百済寺",
     "author": "Nakai_Chan",
     "Geo3x3": "E91381993948383339"
-  },
-  {
-    "id": "4577",
-    "code": "5A83l",
-    "pref": "山梨県",
-    "title": "朝日を浴びる霊峰富士",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91395465359556622"
-  },
-  {
-    "id": "4578",
-    "code": "FCFqh",
-    "pref": "福島県",
-    "title": "モノトーン(会津磐梯山)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414176236443685"
   },
   {
     "id": "4579",
@@ -15080,52 +13664,12 @@
     "Geo3x3": "E91376477183647842"
   },
   {
-    "id": "4604",
-    "code": "84Gcv",
-    "pref": "新潟県",
-    "title": "絶景紅葉(秋山郷・津南町)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632185799966921"
-  },
-  {
-    "id": "4605",
-    "code": "LNgoK",
-    "pref": "福島県",
-    "title": "秋元湖の秋(磐梯吾妻レークライン・北塩原村)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92414422114322925"
-  },
-  {
-    "id": "4607",
-    "code": "B2HQf",
-    "pref": "新潟県",
-    "title": "長岡の冬花火(国営越後丘陵公園・長岡市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635133499784133"
-  },
-  {
     "id": "4609",
     "code": "EeUiQ",
     "pref": "京都府",
     "title": "永観堂の紅葉",
     "author": "SEI",
     "Geo3x3": "E91381739942117823"
-  },
-  {
-    "id": "4610",
-    "code": "SXFyc",
-    "pref": "新潟県",
-    "title": "航跡(両津港・佐渡ヶ島)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91634991473478191"
-  },
-  {
-    "id": "4613",
-    "code": "5BY3r",
-    "pref": "新潟県",
-    "title": "幸せを呼ぶ月虹(苗名滝・妙高市)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631281932822313"
   },
   {
     "id": "4614",
@@ -15190,22 +13734,6 @@
     "title": "弁天島海浜公園",
     "author": "Nakai_Chan",
     "Geo3x3": "E91383379892836564"
-  },
-  {
-    "id": "4629",
-    "code": "wWK1A",
-    "pref": "新潟県",
-    "title": "棚田と越後三山(山古志)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632881955866362"
-  },
-  {
-    "id": "4631",
-    "code": "IiKGm",
-    "pref": "新潟県",
-    "title": "月の明かりでできる虹(月虹・苗名滝)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91631281932822313"
   },
   {
     "id": "4636",
@@ -16808,14 +15336,6 @@
     "Geo3x3": "E92488214449433696"
   },
   {
-    "id": "5003",
-    "code": "XqENn",
-    "pref": "沖縄県",
-    "title": "夕焼けに映えるハートロック",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E67845682184677368"
-  },
-  {
     "id": "5004",
     "code": "ZLE1c",
     "pref": "栃木県",
@@ -16934,14 +15454,6 @@
     "title": "おかやまフォレストパークドイツの森",
     "author": "Akaiwa-City",
     "Geo3x3": "E91371691619363728"
-  },
-  {
-    "id": "5031",
-    "code": "zY4LQ",
-    "pref": "北海道",
-    "title": "丹頂鶴の楽園",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92489952933738774"
   },
   {
     "id": "5032",
@@ -17080,22 +15592,6 @@
     "Geo3x3": "E91381263565355144"
   },
   {
-    "id": "5061",
-    "code": "u6429",
-    "pref": "北海道",
-    "title": "知床のオジロワシ・オオワシ(知床国立公園)",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92732774128587136"
-  },
-  {
-    "id": "5062",
-    "code": "YvVR6",
-    "pref": "北海道",
-    "title": "野付半島のエゾシカ",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E92732421964695111"
-  },
-  {
     "id": "5063",
     "code": "AlaZe",
     "pref": "兵庫県",
@@ -17184,14 +15680,6 @@
     "Geo3x3": "E91381193781236933"
   },
   {
-    "id": "5081",
-    "code": "EEHsm",
-    "pref": "東京都",
-    "title": "東京駅",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91396911228358117"
-  },
-  {
     "id": "5084",
     "code": "hIVwX",
     "pref": "徳島県",
@@ -17248,14 +15736,6 @@
     "Geo3x3": "E67842828764735997"
   },
   {
-    "id": "5092",
-    "code": "7Jyr1",
-    "pref": "群馬県",
-    "title": "渋峠の天の川",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91398777897945821"
-  },
-  {
     "id": "5095",
     "code": "OdJ0I",
     "pref": "新潟県",
@@ -17278,14 +15758,6 @@
     "title": "琵琶湖に昇る朝日",
     "author": "Kyle_TK",
     "Geo3x3": "E91384611815528318"
-  },
-  {
-    "id": "5105",
-    "code": "ZTtUr",
-    "pref": "新潟県",
-    "title": "真夏の夕景",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91635911489282139"
   },
   {
     "id": "5107",
@@ -17366,14 +15838,6 @@
     "title": "光差す一ツ滝",
     "author": "rikky_photography",
     "Geo3x3": "E91375619895222444"
-  },
-  {
-    "id": "5130",
-    "code": "o7uHF",
-    "pref": "新潟県",
-    "title": "秋山郷の紅葉",
-    "author": "Koichi_Hayakawa",
-    "Geo3x3": "E91632452923328381"
   },
   {
     "id": "5131",
