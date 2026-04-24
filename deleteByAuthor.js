@@ -208,6 +208,22 @@ const removeHTML = async (ids) => {
   return results;
 };
 
+const removePhotos = async (ids) => {
+  const results = [];
+  for (const id of ids) {
+    const path = `photo/${id}.jpg`;
+    if (!await fileExists(path)) {
+      results.push({ path, removed: 0, skipped: true });
+      continue;
+    }
+    if (!dryRun) {
+      await Deno.remove(path);
+    }
+    results.push({ path, removed: 1 });
+  }
+  return results;
+};
+
 const main = await readCSV("find47images.csv");
 const targets = main.records.filter(matchAuthor);
 const ids = new Set(targets.map((record) => record.id));
@@ -238,6 +254,7 @@ for (const path of jsonFiles) {
 }
 
 const htmlResults = await removeHTML(ids);
+const photoResults = await removePhotos(ids);
 
 const prefix = dryRun ? "[dry-run] " : "";
 console.log(`${prefix}matched ${ids.size} record(s) for author: ${author}`);
@@ -269,4 +286,9 @@ for (const result of jsonResults) {
 const removedHTML = htmlResults.filter((result) => result.removed).length;
 console.log(
   `\nHTML: ${removedHTML} file(s) ${dryRun ? "would be removed" : "removed"}`,
+);
+
+const removedPhotos = photoResults.filter((result) => result.removed).length;
+console.log(
+  `Photo: ${removedPhotos} file(s) ${dryRun ? "would be removed" : "removed"}`,
 );
